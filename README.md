@@ -10,6 +10,6 @@ Interview puropose
 
 ## Here we used the conda environment to work with vs code.
 
-Model - Linear Regression
-Model score - -11.54
-Feb 2023 Biscuit price - 23.74
+1.Model - Linear Regression
+2.Model score - -11.54
+3.Feb 2023 Biscuit price - 23.74
